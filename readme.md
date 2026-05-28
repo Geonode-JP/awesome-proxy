@@ -70,6 +70,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 
 ### Popular Reverse Proxies
 
+- [Geonode](https://geonode.com) — Rotating residential + datacenter proxies and a Firecrawl-compatible scraper API.
 - [NGINX Open Source](https://nginx.org/) / [NGINX Plus](https://nginx.com/)
 - [Envoy Proxy](https://www.envoyproxy.io/)
 - [Apache](http://wiki.apache.org/cocoon/ApacheModProxy)
